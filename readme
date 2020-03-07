@@ -1,0 +1,6 @@
+echo "# crawler" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/michiWS1920/crawler.git
+git push -u origin master
